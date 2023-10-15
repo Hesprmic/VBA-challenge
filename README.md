@@ -3,6 +3,8 @@
 Included are pictures of the files with completed each of the tabs completed using the code.
 Alphabetical Testing with VBA code (instead of multiple_year_stock_data excel sheet since it's too large).
 
+****Received help from Tyler Aden And also worked with Brandon Britt to clean up code and ensure that the code ran for every tab consecutively.
+
 Below is the code for the homework which is also included in the Alphabetical Testing excel sheet(as mentioned in line 4 above)
 
 Sub stock_analysis()
